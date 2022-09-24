@@ -18,7 +18,6 @@
 <a href="https://instagram.com/the_mystric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_mystric" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/moemenadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moemenadam" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/moemenadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moemenadam" height="30" width="40" /></a>
-<a href="https://discord.gg/TheMystric#0996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TheMystric#0996" height="30" width="40" /></a>
 </p>
 
 
