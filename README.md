@@ -2,12 +2,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Probelm+Solver;Computer+Science+Student;"></a>
 </p>
-<img align="right" alt="Coding" width="250" src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 
 
-## <picture><img align="center" src="https://www.clipartmax.com/png/full/258-2587114_computer-programmer-png.png" height="60" width="60" /></picture>  Abouth Me :
+## <picture><img align="center" src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif" height="60" width="60" /></picture>  Abouth Me :
 <br>
 
 - Student at [FCI at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
