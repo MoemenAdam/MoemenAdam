@@ -17,7 +17,8 @@
 
 
 ## <picture><img align="center" src="https://media.tenor.com/arL-Och6Y7sAAAAC/connecting-loading.gif" height="60" width="60" /></picture>  Connect with Me :
-<p align="center">
+<p align="left">
+&emsp;&emsp;&emsp;&emsp;
 <a href="https://www.linkedin.com/in/moemen-adam-84a551213/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width = 35px/></a>&emsp;
 <a href="https://instagram.com/the_mystric"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width = 35px/></a>&emsp;
 <a href="mailto:mmuummnna@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Email" width = 35px/></a>&emsp;
@@ -25,16 +26,16 @@
 <a href="https://wa.me/00201128896141"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp" width = 35pxx/></a>   &emsp;
 <a href="https://www.facebook.com/Mr7bar/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="FaceBook" width = 35pxx/></a>   &emsp;
   
-  
 </p>
-                                                                                                                                    
-                                                                                                                                    
-<b><h3 align="left">Languages :</h3>
-<p align="left"> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+
+
+## <picture><img align="center" src="https://media.tenor.com/arL-Och6Y7sAAAAC/connecting-loading.gif" height="60" width="60" /></picture>  Languages :
+<p align="left">
+&emsp;&emsp;&emsp;&emsp;
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&emsp;
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&emsp;
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&emsp;
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&emsp;
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
                                                                                                                                                       
