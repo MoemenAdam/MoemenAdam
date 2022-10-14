@@ -17,15 +17,18 @@
 
 
 ## <picture><img align="center" src="https://media.tenor.com/arL-Och6Y7sAAAAC/connecting-loading.gif" height="60" width="60" /></picture>  Connect with Me :
-<p align=left">
-<a href="https://www.linkedin.com/in/moemen-adam-84a551213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moemen adam" height="30" width="35" /></a>
-<a href="https://instagram.com/the_mystric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_mystric" height="30" width="40" /></a> 
-<a href="mailto:mmuummnna@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="the_mystric" height="40" width="35" /></a>
-<a href="https://github.com/MoemenAdam" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="the_mystric" height="40" width="40" /></a> 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/moemen-adam-84a551213/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width = 35px/></a>&emsp;
+<a href="https://instagram.com/the_mystric"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width = 35px/></a>&emsp;
+<a href="mailto:mmuummnna@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Email" width = 35px/></a>&emsp;
+<a href="https://github.com/MoemenAdam"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width = 35pxx/></a>   &emsp;
+<a href="https://wa.me/00201128896141"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp" width = 35pxx/></a>   &emsp;
+<a href="https://www.facebook.com/Mr7bar/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="FaceBook" width = 35pxx/></a>   &emsp;
+  
+  
 </p>
-
-
+                                                                                                                                    
+                                                                                                                                    
 <b><h3 align="left">Languages :</h3>
 <p align="left"> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
