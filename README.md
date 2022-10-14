@@ -4,9 +4,19 @@
 </p>
 <img align="right" alt="Coding" width="250" src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif">
 
-## <picture><img align="center" src="https://media.tenor.com/arL-Och6Y7sAAAAC/connecting-loading.gif" height="60" width="60" /></picture>  Connect with me :
 
 
+
+## <picture><img align="center" src="https://www.clipartmax.com/png/full/258-2587114_computer-programmer-png.png" height="60" width="60" /></picture>  Abouth Me :
+<br>
+
+- Student at [FCI at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
+- I am a Problem Solver at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
+- I’m currently learning `Git & GitHub`.
+<br>
+
+
+## <picture><img align="center" src="https://media.tenor.com/arL-Och6Y7sAAAAC/connecting-loading.gif" height="60" width="60" /></picture>  Connect with Me :
 <p align=left">
 <a href="https://www.linkedin.com/in/moemen-adam-84a551213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moemen adam" height="30" width="35" /></a>
 <a href="https://instagram.com/the_mystric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_mystric" height="30" width="40" /></a> 
@@ -24,13 +34,7 @@
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-
-<br><br>
-
-- Student at [FCI at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
-- I am a Problem Solver at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
-- I’m currently learning `Git & GitHub`.
-<br>
+                                                                                                                                                      
 
 <b><h3 align="left">Problem Solving :</h3>
 <p align="left">
