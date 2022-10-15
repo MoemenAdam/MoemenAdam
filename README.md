@@ -13,7 +13,7 @@
 
 - Student at [FCI Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
 - I am a Problem Solver at `Codeforces`, `Atcoder`, `HackerRank`, `Codechef`.
-- I’m currently learning `Git & GitHub`.
+- I’m currently learning `Git & GitHub`, `JavaScript`.
 - Whatever you `ask`, I will do it.
 - The most important thing for me is `Time`.
 <br>
