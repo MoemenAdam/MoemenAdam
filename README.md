@@ -47,7 +47,7 @@
 <p align="left">
 &emsp;&emsp;&emsp;&emsp;
 <a href="https://www.hackerrank.com/moemenadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>&emsp;
-<a href="https://codeforces.com/profile/moemenadam" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/3/38/Codeforces%27s_new_logo.png" alt="Codeforces" height="30" width="100" /></a>&emsp;
+<a href="https://codeforces.com/profile/moemenadam" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" height="30"/></a>&emsp;
 <a href="https://www.codechef.com/users/moemenadam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="40" /></a>&emsp;
 <a href="https://atcoder.jp/users/MoemenAdam" target="blank"><img align="center" src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" height="30" width="40" /></a>&emsp;
   
