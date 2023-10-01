@@ -24,10 +24,7 @@
 <p align="left">
 &emsp;&emsp;&emsp;&emsp;
 <a href="https://www.linkedin.com/in/moemen-adam-84a551213/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width = 35px/></a>&emsp;
-<a href="https://instagram.com/the_mystric"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width = 35px/></a>&emsp;
 <a href="mailto:mmuummnna@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Email" width = 35px/></a>&emsp;
-<a href="https://wa.me/00201128896141"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp" width = 35pxx/></a>   &emsp;
-<a href="https://www.facebook.com/Mr7bar/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="FaceBook" width = 35pxx/></a>   &emsp;
   
 </p>
 
