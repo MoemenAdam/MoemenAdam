@@ -11,11 +11,17 @@
 ## About Me :
 <br>
 
-- Student at [FCI Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
-- I am a Problem Solver at `Codeforces`, `Atcoder`, `HackerRank`, `Codechef`.
-- I’m currently learning  `React Hooks`.
-- Whatever you `ask`, I will do it.
-- The most important thing for me is `Time`.
-<br>
+- 💖Greetings! I'm Moemen Adam, a dedicated front-end developer specializing in React, HTML, CSS, and JavaScript.
 
+- ✨My proficiency extends to Tailwind, and I've successfully delivered numerous projects showcasing my skills and creativity.
+
+- 💻As a problem solver, I hold a notable 1200+ rating in Codeforces (Pupil), and a 1431 rating in Codechef (2-star), reflecting my analytical and algorithmic prowess.
+
+- 💯With a solid foundation in data structures and object oriented programming (OOP), I approach coding challenges with precision and ingenuity.
+
+- 😊My practical experience includes a rewarding internship with ITI, where I further honed my skills in React development.
+
+- 😱Forty-seventh Placed in 2023 ICPC ECPC Qualifications Programming Contest
+  
+<br>
 
